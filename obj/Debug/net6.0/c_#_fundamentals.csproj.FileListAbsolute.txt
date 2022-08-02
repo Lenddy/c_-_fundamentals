@@ -1,0 +1,15 @@
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\bin\Debug\net6.0\c_#_fundamentals.exe
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\bin\Debug\net6.0\c_#_fundamentals.deps.json
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\bin\Debug\net6.0\c_#_fundamentals.runtimeconfig.json
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\bin\Debug\net6.0\c_#_fundamentals.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\bin\Debug\net6.0\c_#_fundamentals.pdb
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.csproj.AssemblyReference.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.AssemblyInfoInputs.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.AssemblyInfo.cs
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\refint\c_#_fundamentals.dll
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.pdb
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\c_#_fundamentals.genruntimeconfig.cache
+C:\Users\leme2\OneDrive\Desktop\codingDojoWork\c_#_fundamentals\obj\Debug\net6.0\ref\c_#_fundamentals.dll
